@@ -1,5 +1,6 @@
 # Stock-Price-Prediction
 Stock price prediction using Linear Regression and historical market data.
+
 📌 Project Overview
 
 This project builds a simple machine learning model to predict the closing price of a single stock using historical price data. The objective is to understand how linear regression can be applied to time-series financial data.
