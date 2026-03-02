@@ -13,7 +13,6 @@ Features used: Open, High, Low, Volume
 
 Target variable: Close price
 
-(Add dataset source here — e.g., Yahoo Finance if applicable)
 
 🛠 Technologies Used
 
